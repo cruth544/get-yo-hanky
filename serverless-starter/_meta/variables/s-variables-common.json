@@ -1,0 +1,6 @@
+{
+  "project": "serverless-starter",
+  "projectBucket": "serverless.us-west-2.appathon",
+  "domain": "appathon",
+  "notificationEmail": "idontknow544@yahoo.com"
+}
